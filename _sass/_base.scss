@@ -280,6 +280,9 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   a {
     color: var(--global-footer-link-color);
@@ -467,15 +470,15 @@ footer.sticky-bottom {
   margin-top: 2rem;
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     span {
-      font-size: 1.5rem;
+      font-size: 1.25rem;
     }
   }
   h2.year {
@@ -492,7 +495,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0.5rem;
       .preview {
         width: 100%;
         min-width: 80px;
