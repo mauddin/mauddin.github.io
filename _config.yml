@@ -71,16 +71,16 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon username
 mastodon_instance: # your mastodon instance
 linkedin_username: majbahuddin # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: FRKGYKoAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-9925-3881 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.ornl.gov/staff-profile/majbah-uddin # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
