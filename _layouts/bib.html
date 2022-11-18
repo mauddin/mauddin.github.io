@@ -28,7 +28,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title mb-0">{{entry.title}}</div>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
@@ -125,26 +125,30 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+
+        {% if entry.note %}
+        <div style="color: #FFC000;"><p class="periodical font-weight-light mb-0"><i class="fa fa-solid fa-star"></i> {{entry.note}}</p></div>
+        {% endif %}
         
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a class="abstract badge grey waves-effect font-weight-light mr-1" role="button">Abstract</a>
           {%- endif %}
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="badge grey waves-effect font-weight-light mr-1" role="button">arXiv</a>
           {%- endif %}
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="badge grey waves-effect font-weight-light mr-1" role="button">HTML</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+            <a href="{{ entry.pdf }}" class="badge grey waves-effect font-weight-light mr-1" role="button" target="_blank">PDF</a>
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="badge grey waves-effect font-weight-light mr-1" role="button" target="_blank">PDF</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
