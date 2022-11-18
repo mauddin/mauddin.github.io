@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Huynh":
+  - firstname: ["Nathan"]
+    url: http://ce.sc.edu/huynh/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Taaffe":
+  - firstname: ["Kevin", "Kevin M"]
+    url: http://taaffe.people.clemson.edu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Greenstein":
+  - firstname: ["Joel S","Joel"]
+    url: https://www.clemson.edu/cecas/departments/ie/people/emeritus_faculty/greenstein.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Fredendall":
+  - firstname: ["Lawrence D","Lawrence"]
+    url: https://www.clemson.edu/business/about/profiles/FLAWREN
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Vidal":
+  - firstname: ["Jose M","Jose"]
+    url: https://jmvidal.cse.sc.edu/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Gassman":
+  - firstname: ["Sarah L"]
+    url: https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/gassman_sarah.php
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Taaffe":
+  - firstname: ["Kevin", "Kevin M"]
+    url: http://taaffe.people.clemson.edu/
