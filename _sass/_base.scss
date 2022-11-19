@@ -555,8 +555,8 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: var(--global-text-color);
+            border-color: var(--global-text-color);
           }
         }
       }
