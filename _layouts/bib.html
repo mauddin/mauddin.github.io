@@ -28,7 +28,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title mb-0">{{entry.title}}</div>
+          <div class="title mb-0 font-weight-bold">{{entry.title}}</div>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
@@ -110,7 +110,7 @@
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif proceedings contains entry.type -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+            {%- capture entrytype -%}<em>{{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
@@ -124,12 +124,11 @@
           <div class="periodical">
             {{ periodical | strip }}
           </div>
+          {% if entry.note %}
+            <div style="color: cyan"><p class="font-weight-bold mb-0"><i class="fa fa-solid fa-star"></i>{{entry.note}}</p></div>
+          {% endif %}
         {%- endif %}
 
-        {% if entry.note %}
-        <div style="color: #FFC000;"><p class="periodical font-weight-bold mb-0"><i class="fa fa-solid fa-star"></i> {{entry.note}}</p></div>
-        {% endif %}
-        
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
