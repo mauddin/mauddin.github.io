@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publications
+title: Publications
 nav: true
 nav_order: 3
 dropdown: true
 children: 
-    - title: papers
+    - title: Papers
       permalink: /papers/
     - title: divider
-    - title: reports
+    - title: Reports
       permalink: /reports/
 ---
