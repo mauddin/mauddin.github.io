@@ -9,3 +9,14 @@
       items: 
         - Max Planck Medal
 
+
+- title: Media
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
