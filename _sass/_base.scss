@@ -470,7 +470,7 @@ footer.sticky-bottom {
   margin-top: 0.5rem;
   h1 {
     color: var(--global-theme-color);
-    font-size: 0.75rem;
+    font-size: 0.5rem;
     text-align: center;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -478,7 +478,7 @@ footer.sticky-bottom {
   h2 {
     margin-bottom: 0.5rem;
     span {
-      font-size: 0.5rem;
+      font-size: 0.25rem;
     }
   }
   h2.year {
@@ -491,6 +491,7 @@ footer.sticky-bottom {
   }
   ol.bibliography {
     list-style: none;
+    font-size: 0.95rem;
     padding: 0;
     margin-top: 0;
 
