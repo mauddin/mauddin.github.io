@@ -2,10 +2,10 @@
 layout: page
 title: Blog
 permalink: /posts/
-description: A growing collection of your cool projects.
+description: Blog posts
 nav: true
 nav_order: 7
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 

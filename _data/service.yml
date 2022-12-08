@@ -5,10 +5,10 @@
       institution: Chair
       year: 2021 - now
       description:
-        - title: TRB Annual Meeting 2023
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        # - title: TRB Annual Meeting 2023
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: TRB Standing Committee on Freight Transportation Data
       institution: Member
       year: 2021 - now
@@ -44,7 +44,7 @@
   type: time_table
   contents:
     - title: Journal Referee
-      institution: Scientific Reports, Transportation Research Record, IEEE Access, Journal of Advanced Transportation, Sustainability, Accident Analysis & Prevention (Outstanding Reviewer in 2018)
+      institution: Scientific Reports, Transportation Research Record, IEEE Access, Journal of Advanced Transportation, Sustainability, Accident Analysis & Prevention (Outstanding Reviewer in 2018), Journal of Safety Research, Traffic Injury Prevention, PeerJ, International Journal of Pavement Engineering, Substance Use & Misuse, International Journal of Disaster Risk Reduction, IEEE Transactions on Intelligent Transportation Systems
       year: 2017 - now
     - title: Conference Referee
       institution: Transportation Research Board Annual Meeting, International Conference on Transportation & Development
