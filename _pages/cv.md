@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: uddinm_CV.pdf
+cv_pdf: UddinM_CV.pdf
 ---
