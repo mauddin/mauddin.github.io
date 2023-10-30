@@ -1,6 +1,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Core Values Nomination for Service, ORNL
     - year: 2022
       items:
         - Poster Presentation Award, Oak Ridge Postdoctoral Association Research Symposium
@@ -40,6 +43,12 @@
 - title: Media Coverage
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - <strong><a href='https://www.ornl.gov/news/safe-train-transport'>Safe Train Transport</a></strong>, ORNL News article
+        - <strong><a href='https://www.wvlt.tv/2023/08/17/photo-sharing-website-powers-train-disaster-maps/'>Photo-sharing website powers train disaster maps</a></strong>, WVLT 8 feature
+        - <strong><a href='https://www.youtube.com/watch?v=ScrIQfxn4n0&ab_channel=WATE6OnYourSide'>ORNL uses geotagged to recreate train routes to help with incidents</a></strong>, WATE 6 feature     
+     
     - year: 2022
       items: 
         - <strong><a href='https://onlinepubs.trb.org/onlinepubs/trnews/trnews338.pdf#page=48'>Transportation Influencer</a></strong> in TR News Number 338

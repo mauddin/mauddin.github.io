@@ -25,13 +25,19 @@
       institution: Member
       year: 2016 - 2019
 
+- title: <a href='https://www.asce.org/communities/institutes-and-technical-groups/transportation-and-development-institute'> ASCE Transportation & Development Institute</a>
+  type: time_table
+  contents:
+    - title: Freight & Logistics Committee
+      institution: Member
+      year: 2023 - now
+    - title: Artificial Intelligence In Transportation Committee
+      institution: Corresponding Member
+      year: 2023 - now
 
 - title: Editorial Service
   type: time_table
   contents:
-    - title: <a href='https://www.hindawi.com/journals/ace/'>Advances in Civil Engineering</a>
-      institution: Academic Editor
-      year: 2022 - now
     - title: <a href='https://www.frontiersin.org/journals/future-transportation'>Frontiers in Future Transportation</a>
       institution: Review Editor for Transport Safety
       year: 2021 - now
