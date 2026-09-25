@@ -56,6 +56,11 @@ on:
       - "!docs/INSTALL.md"
       - "!README.md"
   workflow_dispatch:
+  # Commits pushed by GITHUB_TOKEN do not trigger push events, so redeploy
+  # after the scheduled citation update finishes.
+  workflow_run:
+    workflows: [Update Google Scholar Citations]
+    types: [completed]
 
 permissions:
   contents: write
