@@ -2,23 +2,17 @@
   Renders a list of sections as year | role | text tables.
   Usage: {% include cv_table.liquid sections=site.data.awards %}
   Section keys: title, note (optional), entries[] with year, role (optional), text.
+  Keep top-level HTML unindented: this include is rendered inside Markdown pages,
+  and kramdown treats indented lines after a blank line as code blocks.
 {% endcomment %}
-{% for section in include.sections %}
-  <h2 class="mt-4">{{ section.title }}</h2>
-  {% if section.note %}
-    <p class="detail">{{ section.note }}</p>
-  {% endif %}
-  <table class="cv-table">
-    <tbody>
-      {% for entry in section.entries %}
-        <tr>
-          <td class="year">{{ entry.year }}</td>
-          <td>
-            {% if entry.role %}<span class="role">{{ entry.role }}</span>, {% endif %}
-            {{- entry.text -}}
-          </td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-{% endfor %}
+{%- for section in include.sections -%}
+<h2 class="mt-4">{{ section.title }}</h2>
+{%- if section.note %}
+<p class="detail">{{ section.note }}</p>
+{%- endif %}
+<table class="cv-table"><tbody>
+{%- for entry in section.entries %}
+<tr><td class="year">{{ entry.year }}</td><td>{% if entry.role %}<span class="role">{{ entry.role }}</span>, {% endif %}{{ entry.text }}</td></tr>
+{%- endfor %}
+</tbody></table>
+{% endfor -%}
