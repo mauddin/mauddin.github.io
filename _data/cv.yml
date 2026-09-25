@@ -28,11 +28,11 @@ cv:
         position: R&D Staff
         location: Oak Ridge, TN
         start_date: 2024-03
-        highlights:
-          - Lead multidisciplinary teams as PI or co-PI on externally sponsored and internal research projects totaling more than $15M, for DOE, USDOT (FHWA, BTS), NYSDOT, and ORNL LDRD
-          - Lead development of national freight data and models, including the Freight Analysis Framework (FAF) releases used by federal and state DOTs, national labs, and industry
-          - Translate research into decision-support tools and software for federal and state agencies
-          - Mentor and direct the research of postdoctoral researchers, technical staff, and student interns
+        # highlights:
+          # - Lead multidisciplinary teams as PI or co-PI on externally sponsored and internal research projects totaling more than $15M, for DOE, USDOT (FHWA, BTS), NYSDOT, and ORNL LDRD
+          # - Lead development of national freight data and models, including the Freight Analysis Framework (FAF) releases used by federal and state DOTs, national labs, and industry
+          # - Translate research into decision-support tools and software for federal and state agencies
+          # - Mentor and direct the research of postdoctoral researchers, technical staff, and student interns
 
       - company: Oak Ridge National Laboratory
         position: R&D Associate Staff
@@ -45,10 +45,10 @@ cv:
         location: Oak Ridge, TN
         start_date: 2019-09
         end_date: 2021-11
-        highlights:
-          - Produced freight flow datasets for several out-of-scope components of FAF version 5 not covered by the Commodity Flow Survey (CFS)
-          - Generated regional travel statistics from National Household Travel Survey (NHTS) data for NYSDOT regional travel demand modeling
-          - Compiled a national pipeline intermodal terminal dataset by merging multiple sources
+        # highlights:
+          # - Produced freight flow datasets for several out-of-scope components of FAF version 5 not covered by the Commodity Flow Survey (CFS)
+          # - Generated regional travel statistics from National Household Travel Survey (NHTS) data for NYSDOT regional travel demand modeling
+          # - Compiled a national pipeline intermodal terminal dataset by merging multiple sources
 
       - company: University of South Carolina
         position: Postdoctoral Research Associate
@@ -109,29 +109,29 @@ cv:
         start_date: 2007-06
         end_date: 2012-04
 
-    Invited Talks and Panels:
-      - bullet: 2026, "Advanced Forecasting and Optimization," *DOE Transportation Technologies Office Analysis AI Workshop*, Washington, DC
-      - bullet: 2026, Panelist, session on "Inefficiencies and Supply," *ORNL Collaboration Catalysts&#58; Secure, Resilient Systems for Abundant Energy*, Oak Ridge, TN
-      - bullet: 2026, "FAF and NHTS&#58; National Freight and Passenger Travel Data for Regional Resilience Analysis," *Accelerating Southeast Resilience Workshop*, Oak Ridge, TN
-      - bullet: 2026, "Technology-Enabled Approaches for Mobility Management," *Workshop on Evaluating Mobility Management Tools and Strategies for Implementation and Practice, TRB Annual Meeting*, Washington, DC
-      - bullet: 2025, "Transportation Analytics and Decision Sciences," *German-American Frontiers of Engineering Symposium, National Academy of Engineering*, Oak Ridge, TN
-      - bullet: 2025, "National Household Travel Survey" (with Richard Batchelder), *NYSHAReD Community of Practice*, Virtual
-      - bullet: 2019, "Assessing Service Life of Traffic Signs in South Carolina," *ASCE Midlands Branch Meeting*, Columbia, SC
+    # Invited Talks and Panels:
+      # - bullet: 2026, "Advanced Forecasting and Optimization," *DOE Transportation Technologies Office Analysis AI Workshop*, Washington, DC
+      # - bullet: 2026, Panelist, session on "Inefficiencies and Supply," *ORNL Collaboration Catalysts&#58; Secure, Resilient Systems for Abundant Energy*, Oak Ridge, TN
+      # - bullet: 2026, "FAF and NHTS&#58; National Freight and Passenger Travel Data for Regional Resilience Analysis," *Accelerating Southeast Resilience Workshop*, Oak Ridge, TN
+      # - bullet: 2026, "Technology-Enabled Approaches for Mobility Management," *Workshop on Evaluating Mobility Management Tools and Strategies for Implementation and Practice, TRB Annual Meeting*, Washington, DC
+      # - bullet: 2025, "Transportation Analytics and Decision Sciences," *German-American Frontiers of Engineering Symposium, National Academy of Engineering*, Oak Ridge, TN
+      # - bullet: 2025, "National Household Travel Survey" (with Richard Batchelder), *NYSHAReD Community of Practice*, Virtual
+      # - bullet: 2019, "Assessing Service Life of Traffic Signs in South Carolina," *ASCE Midlands Branch Meeting*, Columbia, SC
 
-    Mentoring:
-      - label: Qixing (Jason) Wang
-        details: Postdoctoral Research Associate (2026&ndash;present)
-      - label: Pankaj Dahal
-        details: Technical Professional Staff (2025&ndash;present)
-      - label: A Latif Patwary
-        details: Postdoctoral Research Associate (2024&ndash;present)
-      - label: Meiyu (Melrose) Pan
-        details: Postdoctoral Research Associate (2023&ndash;2024)
-      - label: Michael Han
-        details: GRO Student (2024&ndash;2025)
-      - label: Cameron James Swapp, Samuel Arhin
-        details: DOE SULI Interns (2024)
-      - label: Eric Orozco
-        details: GEM Fellow Intern (2022)
-      - label: Thomas Vance
-        details: DOE SULI Intern (2022)
+    # Mentoring:
+      # - label: Qixing (Jason) Wang
+        # details: Postdoctoral Research Associate (2026&ndash;present)
+      # - label: Pankaj Dahal
+        # details: Technical Professional Staff (2025&ndash;present)
+      # - label: A Latif Patwary
+        # details: Postdoctoral Research Associate (2024&ndash;present)
+      # - label: Meiyu (Melrose) Pan
+        # details: Postdoctoral Research Associate (2023&ndash;2024)
+      # - label: Michael Han
+        # details: GRO Student (2024&ndash;2025)
+      # - label: Cameron James Swapp, Samuel Arhin
+        # details: DOE SULI Interns (2024)
+      # - label: Eric Orozco
+        # details: GEM Fellow Intern (2022)
+      # - label: Thomas Vance
+        # details: DOE SULI Intern (2022)
