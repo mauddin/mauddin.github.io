@@ -1,0 +1,38 @@
+# Datasets, software tools, and copyrights, rendered on /software/ via _includes/cv_table.liquid.
+# Keep in sync with publicCV/cv/{dataset,software,invention}.tex.
+
+- title: Datasets
+  note: Development team member for national freight datasets; also developed 20+ sponsor-delivered and internal datasets for FHWA, BTS, NYSDOT, DOE, and ORNL LDRD.
+  entries:
+    - year: 2026
+      text: <strong>Freight Analysis Framework, FAF6</strong> [datasets]. US DOT Bureau of Transportation Statistics. <a href="https://doi.org/10.21949/fhgm-g335">doi:10.21949/fhgm-g335</a>
+    - year: 2021
+      text: <strong>Freight Analysis Framework, FAF5</strong> [datasets], 2017&ndash;2050 data. BTS and FHWA. <a href="https://doi.org/10.21949/1529116">doi:10.21949/1529116</a>
+    - year: 2021
+      text: <strong>Freight Analysis Framework, FAF5</strong> [datasets], historical reprocessed 1997&ndash;2012 data. BTS and FHWA. <a href="https://doi.org/10.21949/1529108">doi:10.21949/1529108</a>
+    - year: 2021
+      text: <strong>Intermodal Freight Facilities Pipeline Terminals</strong> [dataset]. National Transportation Atlas Database (NTAD), BTS. <a href="https://geodata.bts.gov/datasets/usdot::intermodal-freight-facilities-pipeline-terminals/about">geodata.bts.gov</a>
+
+- title: Software Tools
+  entries:
+    - year: 2026
+      text: <strong><a href="https://faf.ornl.gov/faf6/dtt_total.aspx">FAF6 Data Tabulation Tool (DTT)</a></strong>. H. Lim, P. Dahal, and M. Uddin. Developed for the Bureau of Transportation Statistics.
+    - year: 2026
+      text: <strong>Fueleconomy.gov Traffic Report Generator</strong>. M. Uddin and P. Dahal. Developed under the DOE-sponsored Fuel Economy Guide project.
+    - year: 2026
+      text: <strong>FEG Web Traffic Analytics</strong>. P. Dahal and M. Uddin. Developed under the DOE-sponsored Fuel Economy Guide project.
+    - year: 2026
+      text: <strong>New York State Community Profiles Prototype Tool</strong>. P. Dahal and M. Uddin. Developed for the New York State Department of Transportation.
+    - year: 2026
+      text: <strong>NYSDOT Freight Flow Analysis Tool</strong>. H. Lim, Q. Wang, and M. Uddin. Developed for the New York State Department of Transportation.
+    - year: 2025
+      text: <strong>Nonhighway Gasoline and Diesel Consumption Estimation Tool</strong>. L. Patwary, M. Uddin, and P. Dahal. Developed for the Federal Highway Administration.
+    - year: 2024
+      text: <strong>CCUS-Agent</strong>, an agent-based simulation model for analyzing multimodal transportation of CO<sub>2</sub> for carbon capture, utilization, and storage. R. Clark and M. Uddin. <a href="https://doi.org/10.11578/dc.20240129.2">doi:10.11578/dc.20240129.2</a>
+
+- title: Software Copyrights
+  entries:
+    - year: 2026
+      text: <strong>Immutable-Profile Web Analytics System for Auditable Replay of Server-Log Traffic Metrics</strong>. P. Dahal, M. Uddin, and S. C. Davis. Site Accession No. 90000504. <a href="https://www.osti.gov/doecode/biblio/183385">DOE CODE 183385</a>
+    - year: 2024
+      text: <strong>Agent-Based Simulation Model for Analyzing Multimodal Transportation of CO<sub>2</sub> for CCUS</strong>. R. Clark and M. Uddin. US Copyright Registration No. TXu 2-413-830.

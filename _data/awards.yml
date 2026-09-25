@@ -1,0 +1,81 @@
+# Rendered by _includes/cv_table.liquid on /awards/.
+# Each section: title + entries (year, optional role, text). HTML allowed in text.
+
+- title: Honors and Awards
+  entries:
+    - year: 2025
+      text: Invited Participant, <strong>German-American Frontiers of Engineering Symposium</strong>, National Academy of Engineering (NAE)
+    - year: 2025
+      text: People's Choice Award, Oak Ridge Postdoctoral Association Research Symposium
+    - year: 2024
+      text: Innovation Award, ORNL
+    - year: 2024
+      text: Core Values Nomination for Teamwork, ORNL
+    - year: 2023
+      text: Core Values Nomination for Service, ORNL
+    - year: 2022
+      text: Poster Presentation Award, Oak Ridge Postdoctoral Association Research Symposium
+    - year: 2021
+      text: Best Demo Award, ORNL Software and Data Expo
+    - year: 2020
+      text: <strong><a href="https://www.sciencedirect.com/journal/international-journal-of-transportation-science-and-technology/about/awards">Most Cited Article Award</a></strong>, <em>International Journal of Transportation Science and Technology</em>
+    - year: 2020
+      text: <strong><a href="https://www.mdpi.com/journal/safety/awards.pdf/0/pdf_206_2018__award.pdf">Best Paper Award</a></strong>, <em>Safety</em>
+    - year: 2019
+      text: <strong><a href="https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2019/20190114_2019_BT_Awards.php">Breakthrough Graduate Scholar Award</a></strong>, University of South Carolina
+    - year: 2016&ndash;2019
+      text: M. Bert Storey Endowed Graduate Fellowship (4 times), University of South Carolina
+    - year: 2018
+      text: Participant, <a href="https://coe-sufs.org/wordpress/2018/08/vasi-sufs-2018/">Volvo Research and Educational Foundations Advanced Studies Institutes on Sustainable Urban Freight Systems</a>, Rensselaer Polytechnic Institute
+    - year: 2018
+      text: <a href="https://twitter.com/USCMTS/status/1009498303682269185">Student Honor Panel Presentation</a>, 5th Biennial Marine Transportation System Research &amp; Development Conference
+    - year: 2018
+      text: <a href="https://sc.edu/about/offices_and_divisions/cte/about/news/2018/pff_awards_spring2018.php">Preparing Future Faculty Award</a>, Center for Teaching Excellence, University of South Carolina
+    - year: 2017
+      text: <strong><a href="https://www.hsisinfo.org/pdf/2017_HSISAwardPressRelease.pdf">Highway Safety Information System Excellence in Highway Safety Data Award</a></strong>, Federal Highway Administration
+    - year: 2016
+      text: Poster Competition Semi-Finalist, INFORMS Annual Meeting
+    - year: 2016
+      text: <strong><a href="https://www.hsisinfo.org/pdf/2016_HSISAwardPressRelease.pdf">Highway Safety Data Research Paper Competition Award</a></strong>, Federal Highway Administration
+    - year: 2015&ndash;2016
+      text: Graduate School Travel Grant (2 times), University of South Carolina
+    - year: 2015
+      text: R. L. Sumwalt, Sr. Endowed Travel Fund, University of South Carolina
+    - year: 2014
+      text: Travel Grant, Bangladesh-Sweden Trust Fund
+    - year: 2008&ndash;2009
+      text: Dean's List Scholarship and University Merit Scholarship, Bangladesh University of Engineering and Technology
+
+- title: Certifications
+  entries:
+    - year: 2026
+      text: Project Management Professional (PMP), Project Management Institute
+    - year: 2021
+      text: Postdoc Development Path, ORNL Employee and Organizational Development
+    - year: 2016
+      text: Engineer-in-Training (EIT), South Carolina Board of Registration for Professional Engineers and Surveyors
+
+- title: Media Coverage
+  entries:
+    - year: 2024
+      text: <strong><a href="https://www.ornl.gov/news/wang-cook-and-uddin-elevated-ieee-senior-members">Elevated to IEEE Senior Member</a></strong>, ORNL News
+    - year: 2023
+      text: <strong><a href="https://www.ornl.gov/news/safe-train-transport">Safe Train Transport</a></strong>, ORNL News
+    - year: 2023
+      text: <strong><a href="https://www.wvlt.tv/2023/08/17/photo-sharing-website-powers-train-disaster-maps/">Photo-sharing website powers train disaster maps</a></strong>, WVLT 8
+    - year: 2023
+      text: <strong><a href="https://www.youtube.com/watch?v=ScrIQfxn4n0">ORNL uses geotagged photos to recreate train routes to help with incidents</a></strong>, WATE 6
+    - year: 2022
+      text: <strong><a href="https://www.nationalacademies.org/read/28203/chapter/12">Transportation Influencer</a></strong>, <em>TR News</em> No. 338
+    - year: 2019
+      text: <a href="https://www.linkedin.com/posts/uofsccee_uofsc-activity-6529012789812490240-XLKN/">Graduate Student Spotlight</a>, University of South Carolina, Civil and Environmental Engineering
+    - year: 2019
+      text: <a href="https://twitter.com/GradSchoolUofSC/status/1118941770392461312">Graduate Student Spotlight</a>, University of South Carolina, Graduate School
+    - year: 2018
+      text: <a href="https://onlinepubs.trb.org/onlinepubs/trnews/trnews316.pdf#page=51">News Briefs</a>, <em>TR News</em> No. 316
+    - year: 2018
+      text: <a href="https://www.fhwa.dot.gov/publications/rtnow/18jan_feb_rtnow.cfm">FHWA R&amp;T Now</a>, January/February
+    - year: 2018
+      text: <a href="https://twitter.com/GradSchoolUofSC/status/985954049764855808">Graduate Student Spotlight</a>, University of South Carolina, Graduate School
+    - year: 2016
+      text: <a href="https://www.fhwa.dot.gov/publications/rtnow/16sep_oct_rtnow.cfm">FHWA R&amp;T Now</a>, September/October

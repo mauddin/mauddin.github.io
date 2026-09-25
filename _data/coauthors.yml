@@ -1,34 +1,140 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"huynh":
+  - firstname: ["Nathan"]
+    url: http://ce.sc.edu/huynh/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"taaffe":
+  - firstname: ["Kevin", "Kevin M"]
+    url: http://taaffe.people.clemson.edu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"greenstein":
+  - firstname: ["Joel S","Joel"]
+    url: https://www.clemson.edu/cecas/departments/ie/people/emeritus_faculty/greenstein.html
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"fredendall":
+  - firstname: ["Lawrence D","Lawrence"]
+    url: https://www.clemson.edu/business/about/profiles/FLAWREN
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"vidal":
+  - firstname: ["Jose M","Jose"]
+    url: https://jmvidal.cse.sc.edu/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"gassman":
+  - firstname: ["Sarah L"]
+    url: https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/gassman_sarah.php
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"lim":
+  - firstname: ["Hyeonsup"]
+    url: https://www.ornl.gov/staff-profile/hyeonsup-lim
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"liu":
+  - firstname: ["Yuandong"]
+    url: https://www.ornl.gov/staff-profile/yuandong-liu
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"wang":
+  - firstname: ["Ross", "Chieh (Ross)", "Chieh"]
+    url: https://www.ornl.gov/staff-profile/ross-wang
+
+"sujan":
+  - firstname: ["Vivek", "Vivek A"]
+    url: https://www.ornl.gov/staff-profile/vivek-sujan
+
+"hasnine":
+  - firstname: ["Md Sami","Md S"]
+    url: https://profiles.howard.edu/md-sami-hasnine
+
+"hwang":
+  - firstname: ["Ho-Ling"]
+    url: https://www.researchgate.net/profile/Ho-Ling-Hwang
+
+"chin":
+  - firstname: ["Shih-Miao"]
+    url: https://www.researchgate.net/profile/Shih-Miao-Chin
+
+"xie":
+  - firstname: ["Fei"]
+    url: https://scholar.google.com/citations?hl=en&user=bUrQmRAAAAAJ
+
+"siekmann":
+  - firstname: ["Adam"]
+    url: https://www.ornl.gov/staff-profile/adam-g-siekmann
+
+"ou":
+  - firstname: ["Shawn"]
+    url: https://www.ornl.gov/staff-profile/shawn-ou
+
+"anowar":
+  - firstname: ["Sabreena"]
+    url: https://scholar.google.ca/citations?user=aztWB5AAAAAJ&hl=en
+
+"eluru":
+  - firstname: ["Naveen"]
+    url: https://www.cece.ucf.edu/eluru/
+
+"comert":
+  - firstname: ["Gurcan"]
+    url: https://scholar.google.com/citations?user=iwycnmYAAAAJ&hl=en
+
+"pierce":
+  - firstname: ["Charles"]
+    url: https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/pierce_charles.php
+
+"berk":
+  - firstname: ["Zulfikar"]
+    url: https://www.linkedin.com/in/zulfikar-berk-475616121/
+
+"petrulis":
+  - firstname: ["Robert"]
+    url: https://www.linkedin.com/in/robert-petrulis-5a906419/
+
+"rahman":
+  - firstname: ["Md Mostaqur"]
+    url: https://scholar.google.com/citations?user=jVnzaT8AAAAJ&hl=en
+
+"ahmed":
+  - firstname: ["Fahim"]
+    url: https://scholar.google.com/citations?user=DldIxZoAAAAJ&hl=en
+
+"minh":
+  - firstname: ["Chu Cong"]
+    url: http://www.bhe.dce.hcmut.edu.vn/giang-vien/75-chu-cong-minh
+
+"biehl":
+  - firstname: ["Alec"]
+    url: https://www.linkedin.com/in/alec-biehl-96965199/
+
+"reuscher":
+  - firstname: ["Tim"]
+    url: https://www.linkedin.com/in/timothy-reuscher-68295826/
+
+"hilliard":
+  - firstname: ["Michael"]
+    url: https://scholar.google.com/citations?user=byPknw8AAAAJ&hl=en
+
+"park":
+  - firstname: ["Byung"]
+    url: https://www.ornl.gov/staff-profile/byung-h-park
+
+"hargrove":
+  - firstname: ["Stephanie"]
+    url: https://www.linkedin.com/in/hargrovephd/
+
+"pan":
+  - firstname: ["Melrose", "Meiyu (Melrose)"]
+    url: https://www.ornl.gov/staff-profile/meiyu-melrose-pan
+
+"clark":
+  - firstname: ["Robin"]
+    url: https://www.ornl.gov/staff-profile/robin-j-clark
+
+"langholtz":
+  - firstname: ["Matthew","Matt"]
+    url: https://www.ornl.gov/staff-profile/matthew-h-langholtz
+
+"webb":
+  - firstname: ["Erin"]
+    url: https://www.ornl.gov/staff-profile/erin-g-webb
+
+"brelsford":
+  - firstname: ["Christa"]
+    url: https://www.christabrelsford.com/
+

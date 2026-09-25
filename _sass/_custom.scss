@@ -1,0 +1,83 @@
+/*******************************************************************************
+ * Site-specific overrides for mauddin.github.io
+ * Loaded last from assets/css/main.scss, so these win over gem defaults.
+ ******************************************************************************/
+
+@use "variables" as v;
+
+:root {
+  --global-theme-color: #{v.$green-color-dark};
+}
+
+// Profile photo slightly narrower than the column
+.profile img {
+  width: 75%;
+}
+
+// Compact publication, report, and presentation lists
+.publications {
+  margin-top: 0.5rem;
+
+  h2.bibliography {
+    margin-top: 1rem;
+  }
+
+  ol.bibliography {
+    font-size: 0.95rem;
+
+    li {
+      margin-bottom: 0.5rem;
+
+      .author {
+        a {
+          color: var(--global-text-color);
+          border-bottom: 1px dashed var(--global-text-color);
+        }
+
+        > em {
+          border-bottom: none;
+          font-weight: 600;
+        }
+      }
+
+      .links a.btn {
+        padding: 0.1rem 0.6rem;
+        font-size: 0.75rem;
+      }
+    }
+  }
+}
+
+// Awards, service, projects, and software tables
+.cv-table {
+  width: 100%;
+  margin-bottom: 0.5rem;
+
+  td {
+    padding: 0.35rem 0.5rem;
+    vertical-align: top;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  td.year {
+    width: 7.5rem;
+    white-space: nowrap;
+    color: var(--global-text-color-light);
+    font-weight: 600;
+  }
+
+  .role {
+    color: var(--global-theme-color);
+    font-weight: 600;
+  }
+
+  .amount {
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  .detail {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+}

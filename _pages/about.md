@@ -1,34 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: R&D Staff, <a href='https://www.ornl.gov/'>Oak Ridge National Laboratory</a>, 1 Bethel Valley Rd, Oak Ridge, TN 37830
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons are shown in the navbar instead
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # news feed is not used on this site
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Majbah Uddin is an R&D staff member in the [Transportation Analytics and Decision Sciences](https://www.ornl.gov/group/transportation-analytics-and-decision-sciences) group at Oak Ridge National Laboratory (ORNL). He leads multidisciplinary teams in multiyear, externally sponsored transportation research that integrates diverse data and decision science. As PI or co-PI, he has led [research projects](/projects/) totaling more than $15 million for the Department of Energy (DOE), the US Department of Transportation (Federal Highway Administration and Bureau of Transportation Statistics), the New York State Department of Transportation, and ORNL Laboratory Directed Research and Development.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research covers AI and machine learning for transportation operations, transportation system resilience, freight and supply chains, decision science, and mobility data. He is currently the PI of a $6.5 million FHWA project on truck size and weight limits and a $2.5 million DOE project that develops a multi-agent AI system for resilient and energy-efficient regional transportation operations. He also leads the development of national freight data and models, including the [Freight Analysis Framework](https://www.bts.gov/faf) (FAF) releases used by federal and state DOTs, national laboratories, and industry.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+To date, Dr. Uddin has published 26 journal articles, 7 conference papers, 2 book chapters, and more than 60 technical reports. His work received the Most Cited Article Award from the _International Journal of Transportation Science and Technology_ and the Best Paper Award from _Safety_. He has also developed national datasets, decision-support tools, and registered software, which are listed on the [Data & Software](/software/) page.
+
+Dr. Uddin serves as a Handling Editor for _Transportation Research Record_ and a Review Editor for _Frontiers in Future Transportation_. He is a member of the [Transportation Research Board](https://www.nationalacademies.org/trb/transportation-research-board) (TRB) Standing Committee on Freight Rail Transportation and Supply Chain Reliability and two American Society of Civil Engineers (ASCE) [Transportation & Development Institute](https://www.asce.org/communities/institutes-and-technical-groups/transportation-and-development-institute) committees. He is an IEEE Senior Member and a certified Project Management Professional (PMP). In 2025, he was an invited participant in the National Academy of Engineering German-American Frontiers of Engineering Symposium. He has reviewed more than 200 papers for over 20 journals and conferences.
+
+Dr. Uddin received his PhD and MS degrees in civil engineering and his master's degree in applied statistics from the [University of South Carolina](https://sc.edu/), and his BS degree in civil engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/).

@@ -1,0 +1,114 @@
+# Rendered by _includes/cv_table.liquid on /service/.
+# Each section: title + entries (year, optional role, text). HTML allowed in text.
+
+- title: Editorial and Advisory Roles
+  entries:
+    - year: 2026&ndash;now
+      role: Handling Editor
+      text: <a href="https://journals.sagepub.com/home/trr"><em>Transportation Research Record</em></a>
+    - year: 2026&ndash;now
+      role: Working Group Member
+      text: TRB AR013 Working Group on Rail Workforce Development
+    - year: 2024
+      role: Program Committee
+      text: UrbanAI'24, 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
+    - year: 2022&ndash;2024
+      role: Panel Member
+      text: NCHRP 08-146, <a href="https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4957"><em>Integrating Resiliency into Transportation System Operations</em></a>
+    - year: 2021&ndash;now
+      role: Review Editor
+      text: <a href="https://www.frontiersin.org/journals/future-transportation"><em>Frontiers in Future Transportation</em></a>
+
+- title: Professional Affiliations
+  entries:
+    - year: 2025&ndash;now
+      role: Member
+      text: TRB Standing Committee on Freight Rail Transportation and Supply Chain Reliability
+    - year: 2024&ndash;now
+      role: Senior Member
+      text: Institute of Electrical and Electronics Engineers (IEEE)
+    - year: 2023&ndash;now
+      role: Member
+      text: ASCE T&amp;DI Freight &amp; Logistics Committee
+    - year: 2023&ndash;now
+      role: Corresponding Member
+      text: ASCE T&amp;DI Artificial Intelligence in Transportation Committee
+    - year: 2023&ndash;2025
+      role: Member
+      text: TRB Standing Committee on Agriculture and Food Transportation
+    - year: 2021&ndash;2025
+      role: Chair
+      text: TRB Freight Systems and Marine Group Young Members Council
+    - year: 2021&ndash;2025
+      role: Member
+      text: TRB Standing Committee on Freight Transportation Data
+    - year: 2021&ndash;2025
+      role: Member
+      text: TRB Subcommittee on Port Performance
+    - year: 2020&ndash;2025
+      role: Member
+      text: TRB Joint Subcommittee on Supply Chain Resilience
+    - year: 2020&ndash;2024
+      role: Member
+      text: TRB Standing Committee on Intermodal Freight Transport
+    - year: 2020&ndash;2022
+      role: Member
+      text: TRB Joint Subcommittee on Intermodal Freight Terminal Design and Operations
+    - year: 2019&ndash;now
+      role: Associate Member
+      text: American Society of Civil Engineers (ASCE)
+    - year: 2016&ndash;2023
+      role: Member
+      text: Institute for Operations Research and the Management Sciences (INFORMS)
+    - year: 2016&ndash;2019
+      role: Member
+      text: TRB Standing Committee on Intermodal Freight Terminal Design and Operations
+
+- title: Conference and Community Service
+  entries:
+    - year: 2023&ndash;2025
+      role: Session Chair
+      text: Committee Meeting, Freight Systems and Marine Group Young Members Council, TRB Annual Meeting (3 times)
+    - year: 2023&ndash;2024
+      role: Session Chair
+      text: "Freight Systems and Marine Transportation Work in Progress: A Lectern-Poster Session, TRB Annual Meeting (2 times)"
+    - year: 2023
+      role: Session Organizer
+      text: The Future of Freight Panel, ORNL Smoky Mountains Mobility Conference, Chattanooga, TN
+    - year: 2016&ndash;2018
+      role: Vice President
+      text: Institute of Transportation Engineers, University of South Carolina Student Chapter
+    - year: 2015
+      role: Member
+      text: Ad Hoc Committee for Enhanced Doctoral Experiences, Civil Engineering Department, University of South Carolina
+
+- title: Laboratory Service
+  entries:
+    - year: 2025
+      role: Proposal Reviewer
+      text: ORNL SEED/LDRD Program
+    - year: 2024
+      role: Organizer
+      text: Laboratory tours for staff of the Vehicle and Mobility Systems Research Section, ORNL
+
+- title: Peer Review
+  note: Reviewed 200+ papers for 20+ journals and conferences.
+  entries:
+    - year: ""
+      role: Proposal Reviewer
+      text: USDOT University Transportation Center R-SEAT, Florida A&amp;M University&ndash;Florida State University
+    - year: ""
+      role: Journal Referee
+      text: >-
+        <em>Scientific Reports</em>, <em>Transportation Research Record</em>, <em>IEEE Access</em>, <em>Journal of Advanced Transportation</em>,
+        <em>Sustainability</em>, <em>Accident Analysis &amp; Prevention</em> (Outstanding Reviewer in 2018), <em>Journal of Safety Research</em>,
+        <em>Traffic Injury Prevention</em>, <em>International Journal of Environmental Research and Public Health</em>, <em>Applied Sciences</em>,
+        <em>Information</em>, <em>PeerJ</em>, <em>Vehicles</em>, <em>International Journal of Injury Control and Safety Promotion</em>,
+        <em>International Journal of Pavement Engineering</em>, <em>International Journal of Disaster Risk Reduction</em>,
+        <em>IEEE Transactions on Intelligent Transportation Systems</em>, <em>International Journal of Urban Sciences</em>,
+        <em>Transportation Research Part C</em>, <em>Transportation Research Part D</em>,
+        <em>International Journal of Systems Science: Operations &amp; Logistics</em>, <em>Transportation Planning and Technology</em>,
+        <em>Transportmetrica A: Transport Science</em>, <em>Journal of Traffic and Transportation Engineering</em>, <em>Infrastructures</em>
+    - year: ""
+      role: Conference Referee
+      text: TRB Annual Meeting, International Conference on Transportation and Development, World Conference on Transport Research

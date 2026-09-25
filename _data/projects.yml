@@ -1,0 +1,73 @@
+# Sponsored research projects, rendered on /projects/.
+# status: active | completed. Keep in sync with publicCV/cv/projects.tex.
+
+- title: Research for Truck Size and Weight Limits
+  sponsor: Federal Highway Administration, USDOT
+  role: PI
+  amount: $6.5M
+  period: 2026&ndash;2031
+  status: active
+
+- title: Multi-Agent AI System for Resilient and Energy-Efficient Regional Transportation Operations
+  sponsor: DOE Transportation Technologies Office
+  role: PI
+  amount: $2.5M
+  period: 2026&ndash;2029
+  status: active
+
+- title: Coupled Water, Freight, and Passenger Resilience Modeling for the Southeast
+  sponsor: ORNL Laboratory Directed Research and Development
+  role: PI
+  amount: $1.0M
+  period: 2026&ndash;2028
+  status: active
+
+- title: Corridor-Level National Freight Flow Model Development
+  sponsor: Federal Highway Administration, USDOT
+  role: PI
+  amount: $1.0M
+  period: 2026&ndash;2029
+  status: active
+
+- title: Freight Analysis Framework (FAF) Data and Model Development Support
+  sponsor: Bureau of Transportation Statistics, USDOT
+  role: Co-PI (2023&ndash;2025); PI (2026&ndash;2028)
+  amount: $4.2M
+  period: 2023&ndash;2028
+  status: active
+  url: https://www.bts.gov/faf
+
+- title: Mining Waste&ndash;Driven Carbon Dioxide Capture and Storage
+  sponsor: ORNL Laboratory Directed Research and Development
+  role: Co-PI
+  amount: $875K
+  period: 2024&ndash;2026
+  status: active
+
+- title: Research, Analysis, and Program Support for NYSDOT
+  sponsor: New York State Department of Transportation
+  role: Team Member (2020&ndash;2021); PI (2022&ndash;2025)
+  amount: $3.8M
+  period: 2020&ndash;2025
+  status: completed
+
+- title: Coupled Ecosystem-and-Engineering Decision-Making Framework for Enhanced Weathering
+  sponsor: ORNL Laboratory Directed Research and Development
+  role: Co-PI
+  amount: $1.2M
+  period: 2023&ndash;2025
+  status: completed
+
+- title: Non-Highway Gasoline and Special Fuel Consumption Estimation Model Study
+  sponsor: Federal Highway Administration, USDOT
+  role: PI
+  amount: $320K
+  period: 2023&ndash;2025
+  status: completed
+
+- title: Modeling a Gigaton CO<sub>2</sub> Economy
+  sponsor: ORNL Laboratory Directed Research and Development
+  role: Co-PI (2022); PI (2023)
+  amount: $490K
+  period: 2022&ndash;2023
+  status: completed

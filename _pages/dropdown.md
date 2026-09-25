@@ -1,13 +1,21 @@
 ---
 layout: page
-title: submenus
+title: Publications
+permalink: /publications/
+description: Papers, technical reports, and presentations.
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Papers
+    permalink: /papers/
+  - title: Reports
+    permalink: /reports/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Presentations
+    permalink: /presentations/
 ---
+
+- [Papers](/papers/): journal articles, conference papers, book chapters, and theses
+- [Reports](/reports/): technical reports
+- [Presentations](/presentations/): conference presentations, posters, and invited talks
