@@ -50,7 +50,9 @@ Source of truth for content is the LaTeX CV in `../publicCV/cv/*.tex`.
 - `award_name={...}` and `award={...}` add an award button
 - `abstract={...}` and `bibtex_show={true}` add Abstract and Bib buttons
 
-**Add a PDF (author copy, report).** Copy the file into `assets/pdf/` (avoid spaces in the name) and add `pdf={that-file.pdf}` to the matching entry.
+**Add a PDF (author copy, report).** Copy the file into `assets/pdf/` and add `pdf={that-file.pdf}` to the matching entry. Name new files `YYYY-venue-topic.pdf` (lowercase, hyphens, no spaces), e.g. `2025-jtg-nighttime-mobility.pdf`. Keep existing file names as they are: PDF URLs may already be indexed by Google Scholar or linked elsewhere, and GitHub Pages cannot redirect them.
+
+When a public full-text copy exists (OSTI.GOV for DOE-sponsored work, arXiv), `pdf=` can point to it directly, e.g. `pdf={https://www.osti.gov/servlets/purl/3002841}`.
 
 **Citation counts.** `.github/workflows/update-citations.yml` refreshes `_data/citations.yml` from Google Scholar on Mon/Wed/Fri and redeploys. Run it by hand from the Actions tab if needed.
 
