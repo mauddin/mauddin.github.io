@@ -7,15 +7,15 @@
     url: http://taaffe.people.clemson.edu/
 
 "greenstein":
-  - firstname: ["Joel S","Joel"]
+  - firstname: ["Joel S", "Joel"]
     url: https://www.clemson.edu/cecas/departments/ie/people/emeritus_faculty/greenstein.html
 
 "fredendall":
-  - firstname: ["Lawrence D","Lawrence"]
+  - firstname: ["Lawrence D", "Lawrence"]
     url: https://www.clemson.edu/business/about/profiles/FLAWREN
 
 "vidal":
-  - firstname: ["Jose M","Jose"]
+  - firstname: ["Jose M", "Jose"]
     url: https://jmvidal.cse.sc.edu/
 
 "gassman":
@@ -24,23 +24,29 @@
 
 "lim":
   - firstname: ["Hyeonsup"]
-    url: https://www.ornl.gov/staff-profile/hyeonsup-lim
+    url: https://orcid.org/0000-0002-3936-0092
 
 "liu":
   - firstname: ["Yuandong"]
-    url: https://www.ornl.gov/staff-profile/yuandong-liu
+    url: https://scholar.google.com/citations?user=G2wFR-UAAAAJ&hl=en
+  - firstname: ["Diyi"]
+    url: https://scholar.google.com/citations?user=wtIFrIYAAAAJ
 
 "wang":
   - firstname: ["Ross", "Chieh (Ross)", "Chieh"]
     url: https://www.ornl.gov/staff-profile/ross-wang
+  - firstname: ["Yaoping"]
+    url: https://www.ornl.gov/staff-profile/yaoping-wang
+  - firstname: ["Qixing"]
+    url: https://www.ornl.gov/staff-profile/qixing-jason-wang
 
 "sujan":
   - firstname: ["Vivek", "Vivek A"]
     url: https://www.ornl.gov/staff-profile/vivek-sujan
 
 "hasnine":
-  - firstname: ["Md Sami","Md S"]
-    url: https://profiles.howard.edu/md-sami-hasnine
+  - firstname: ["Md Sami", "Md S"]
+    url: https://cee.vt.edu/people/faculty/hasnine.html
 
 "hwang":
   - firstname: ["Ho-Ling"]
@@ -52,15 +58,15 @@
 
 "xie":
   - firstname: ["Fei"]
-    url: https://scholar.google.com/citations?hl=en&user=bUrQmRAAAAAJ
+    url: https://orcid.org/0000-0003-4325-2868
 
 "siekmann":
   - firstname: ["Adam"]
     url: https://www.ornl.gov/staff-profile/adam-g-siekmann
 
 "ou":
-  - firstname: ["Shawn"]
-    url: https://www.ornl.gov/staff-profile/shawn-ou
+  - firstname: ["Shawn", "Shiqi"]
+    url: https://scholar.google.com/citations?user=diAh-LMAAAAJ&hl=en
 
 "anowar":
   - firstname: ["Sabreena"]
@@ -68,7 +74,7 @@
 
 "eluru":
   - firstname: ["Naveen"]
-    url: https://www.cece.ucf.edu/eluru/
+    url: https://people.iith.ac.in/naveen/index.html
 
 "comert":
   - firstname: ["Gurcan"]
@@ -96,7 +102,7 @@
 
 "minh":
   - firstname: ["Chu Cong"]
-    url: http://www.bhe.dce.hcmut.edu.vn/giang-vien/75-chu-cong-minh
+    url: https://scholar.google.com/citations?user=O5ItVkkAAAAJ
 
 "biehl":
   - firstname: ["Alec"]
@@ -127,7 +133,7 @@
     url: https://www.ornl.gov/staff-profile/robin-j-clark
 
 "langholtz":
-  - firstname: ["Matthew","Matt"]
+  - firstname: ["Matthew", "Matt"]
     url: https://www.ornl.gov/staff-profile/matthew-h-langholtz
 
 "webb":
@@ -138,3 +144,176 @@
   - firstname: ["Christa"]
     url: https://www.christabrelsford.com/
 
+"chu":
+  - firstname: ["Minh Cong"]
+    url: https://scholar.google.com/citations?user=O5ItVkkAAAAJ
+
+"chen":
+  - firstname: ["Jiaoli"]
+    url: https://scholar.google.com/citations?user=z-o0S6kAAAAJ
+  - firstname: ["Xiaomin"]
+    url: https://www.linkedin.com/in/xiaominchen19
+
+"thompson":
+  - firstname: ["Josh"]
+    url: https://scholar.google.com/citations?user=KQ3eYzUAAAAJ
+
+"patwary":
+  - firstname: ["Latif"]
+    url: https://www.ornl.gov/staff-profile/latif-patwary
+
+"gregorich":
+  - firstname: ["Nicholas"]
+    url: https://www.ornl.gov/staff-profile/nick-e-gregorich
+
+"kalla":
+  - firstname: ["Joseph"]
+    url: https://www.linkedin.com/in/joseph-kalla-3531331ba
+
+"pethe":
+  - firstname: ["Saurabh Prakash"]
+    url: https://bredesencenter.utk.edu/faculty/saurabh-pethe/
+
+"abbas":
+  - firstname: ["Mustafa"]
+    url: https://integrate.utk.edu/people/abbas-mustafa/
+
+"paranthaman":
+  - firstname: ["Mariappan Parans"]
+    url: https://www.ornl.gov/staff-profile/parans-paranthaman
+
+"dangwal":
+  - firstname: ["Shailesh"]
+    url: https://www.ornl.gov/staff-profile/shailesh-dangwal
+
+"bhave":
+  - firstname: ["Ramesh"]
+    url: https://www.ornl.gov/staff-profile/ramesh-r-bhave
+
+"islam":
+  - firstname: ["Syed Z"]
+    url: https://www.ornl.gov/staff-profile/syed-z-islam
+
+"mao":
+  - firstname: ["Jiafu"]
+    url: https://www.ornl.gov/staff-profile/jiafu-mao
+
+"hao":
+  - firstname: ["Yuefeng"]
+    url: https://scholar.google.com/citations?user=SzMdl_8AAAAJ
+
+"sholl":
+  - firstname: ["David"]
+    url: https://profiles.rice.edu/staff/david-sholl
+
+"gu":
+  - firstname: ["Xin"]
+    url: https://www.ornl.gov/staff-profile/xin-gu
+
+"stack":
+  - firstname: ["Andrew G", "Andrew"]
+    url: https://www.ornl.gov/staff-profile/andrew-g-stack
+
+"shi":
+  - firstname: ["Xiaoying"]
+    url: https://www.ornl.gov/staff-profile/xiaoying-shi
+
+"singh":
+  - firstname: ["Nagendra"]
+    url: https://www.ornl.gov/staff-profile/nagendra-singh
+
+"lu":
+  - firstname: ["Dan"]
+    url: https://www.ornl.gov/staff-profile/dan-lu
+
+"busch":
+  - firstname: ["Ingrid"]
+    url: https://www.ornl.gov/staff-profile/ingrid-k-busch
+
+"yuan":
+  - firstname: ["Fengming"]
+    url: https://www.ornl.gov/staff-profile/fengming-yuan
+
+"jin":
+  - firstname: ["Mingzhou"]
+    url: https://tickle.utk.edu/ise/faculty/mingzhou-jin/
+
+"mccollum":
+  - firstname: ["David"]
+    url: https://www.ornl.gov/staff-profile/david-l-mccollum
+
+"ricciuto":
+  - firstname: ["Daniel M", "Daniel"]
+    url: https://www.ornl.gov/staff-profile/daniel-m-ricciuto
+
+"thornton":
+  - firstname: ["Peter E", "Peter"]
+    url: https://www.ornl.gov/staff-profile/peter-e-thornton
+
+"dahal":
+  - firstname: ["Pankaj"]
+    url: https://www.ornl.gov/staff-profile/pankaj-m-dahal
+
+"shiri":
+  - firstname: ["Samaneh"]
+    url: https://www.linkedin.com/in/samanehshiri/
+
+"wu":
+  - firstname: ["Xuanke"]
+    url: https://tti.tamu.edu/?staff_directory=xuanke-wu
+
+"stinson":
+  - firstname: ["Monique"]
+    url: https://scholar.google.com/citations?user=KscC-ZEAAAAJ&hl=en
+
+"jacobs":
+  - firstname: ["Justin"]
+    url: https://www.ornl.gov/staff-profile/justin-w-jacobs
+
+"myers":
+  - firstname: ["Aaron"]
+    url: https://www.ornl.gov/staff-profile/aaron-t-myers
+
+"burger":
+  - firstname: ["Annetta"]
+    url: https://www.ornl.gov/staff-profile/annetta-g-burger
+
+"gonzales":
+  - firstname: ["Jack"]
+    url: https://www.ornl.gov/staff-profile/jack-j-gonzales
+
+"moore":
+  - firstname: ["Amy"]
+    url: https://www.ornl.gov/staff-profile/amy-m-moore
+
+"hespeler":
+  - firstname: ["Steve"]
+    url: https://www.ornl.gov/staff-profile/steve-c-hespeler
+
+"tate":
+  - firstname: ["Christopher"]
+    url: https://www.ornl.gov/staff-profile/christopher-g-tate
+
+"di domenico":
+  - firstname: ["Nicolle"]
+    url: https://orcid.org/0000-0003-4329-4689
+
+"shiledar":
+  - firstname: ["Ankur"]
+    url: https://scholar.google.com/citations?user=ehvseyMAAAAJ&hl=en
+
+"han":
+  - firstname: ["Lee"]
+    url: https://cee.utk.edu/people/lee-d-han/
+
+"khattak":
+  - firstname: ["Asad"]
+    url: https://cee.utk.edu/people/asad-khattak/
+
+"kass":
+  - firstname: ["Michael"]
+    url: https://www.ornl.gov/staff-profile/michael-d-kass
+
+"davis":
+  - firstname: ["Stacy C"]
+    url: https://www.ornl.gov/staff-profile/stacy-c-davis
