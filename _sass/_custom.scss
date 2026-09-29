@@ -22,6 +22,19 @@
     margin-top: 1rem;
   }
 
+  // Type headings on the Papers page (Journal Articles, Conference Papers, ...)
+  h2.pub-section {
+    color: var(--global-theme-color);
+    font-size: 1.6rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0;
+    scroll-margin-top: 4.5rem; // keep heading clear of the fixed navbar
+  }
+
+  h2.pub-section:first-child {
+    margin-top: 1rem;
+  }
+
   ol.bibliography {
     font-size: 0.95rem;
 
