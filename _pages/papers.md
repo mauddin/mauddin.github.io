@@ -37,3 +37,16 @@ nav: false
 {% bibliography -f papers -q @article[abbr=Preprint] %}
 
 </div>
+
+<script>
+  // The bib search box treats the URL #fragment as a filter term, so plain
+  // #section links would filter out every paper. Scroll without touching the hash.
+  document.querySelectorAll(".pub-jump a").forEach(function (link) {
+    link.addEventListener("click", function (event) {
+      var target = document.getElementById(link.getAttribute("href").slice(1));
+      if (!target) return;
+      event.preventDefault();
+      target.scrollIntoView({ block: "start" });
+    });
+  });
+</script>
