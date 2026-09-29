@@ -1,10 +1,3 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
 "TRB":
   url: https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx
 
@@ -12,10 +5,10 @@
   url: https://www.informs.org/Meetings-Conferences
 
 "POMS":
-  url: https://pomsmeetings.org/conf-2018/
+  url: https://www.poms.org/node/1249
 
 "VREF":
-  url: https://coe-sufs.org/wordpress/2018/08/vasi-sufs-2018/
+  url: https://web.archive.org/web/20220131010007/https://coe-sufs.org/wordpress/2018/08/vasi-sufs-2018/
 
 "ORPA":
   url: https://researchsymposium.ornl.gov/
@@ -42,7 +35,7 @@
   url: https://scs.org/annsim/
 
 "AIEXPO":
-  url: https://aiexpo.ornl.gov/
+  url: https://www.ornl.gov/event/ai-expo
 
 "ICR24":
   url: https://www.battelle.org/conferences/conference-on-innovations-in-climate-resilience
@@ -50,3 +43,17 @@
 "AGU24":
   url: https://www.agu.org/annual-meeting
 
+"MTS":
+  url: https://trb.org/Publications/Blurbs/178520.aspx
+
+"IGEC":
+  url: https://www.iage-net.org/igec2022
+
+"LDRD":
+  url: https://www.osti.gov/biblio/2345295
+
+"NYSAMPO":
+  url: https://www.nysmpos.org/2025-nysampo-conference
+
+"AIChE":
+  url: https://www.aiche.org/conferences/aiche-annual-meeting/2026

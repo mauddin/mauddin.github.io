@@ -1,107 +1,137 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Majbah Uddin
-    - name: Languages
-      value: English, Bangla
+# CV page data (RenderCV format), rendered by the al_folio_cv plugin on /cv/.
+# Source of truth: publicCV/cv/*.tex. Publications, projects, awards, and service
+# have dedicated pages, so this file keeps the narrative CV sections only.
+cv:
+  name: Majbah Uddin
+  label: R&D Staff, Oak Ridge National Laboratory
+  location: Oak Ridge, TN
+  website: https://mauddin.github.io
+  summary: >-
+    Leads multidisciplinary teams in multiyear, externally sponsored transportation research that integrates
+    diverse data and decision science.
 
-- title: Research Areas
-  type: list
-  contents:
-  - Travel behavior analysis, freight transportation data and planning, transportation safety analysis, transportation data analytics, applications of machine learning methods in transportation and logistics, and operations research.
+  sections:
+    Research Areas:
+      - label: AI and Machine Learning
+        details: Multi-agent AI for transportation operations, machine learning for transportation and logistics, decision support
+      - label: Resilience
+        details: Transportation system resilience to extreme weather events, supply chain disruption and recovery
+      - label: Freight and Supply Chains
+        details: Freight flow modeling, national freight data (FAF), intermodal networks, truck size and weight
+      - label: Decision Science
+        details: Optimization and operations research under uncertainty, agent-based and game-theoretic modeling
+      - label: Mobility and Data
+        details: Travel behavior, transportation planning, data fusion and analytics
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: R&D Staff
-      institution: Oak Ridge National Laboratory (<a href='https://www.ornl.gov/'>ORNL</a>)
-      year: 2024 - now
+    Experience:
+      - company: Oak Ridge National Laboratory
+        position: R&D Staff
+        location: Oak Ridge, TN
+        start_date: 2024-03
+        # highlights:
+          # - Lead multidisciplinary teams as PI or co-PI on externally sponsored and internal research projects totaling more than $15M, for DOE, USDOT (FHWA, BTS), NYSDOT, and ORNL LDRD
+          # - Lead development of national freight data and models, including the Freight Analysis Framework (FAF) releases used by federal and state DOTs, national labs, and industry
+          # - Translate research into decision-support tools and software for federal and state agencies
+          # - Mentor and direct the research of postdoctoral researchers, technical staff, and student interns
 
-    - title: R&D Associate Staff
-      institution: Oak Ridge National Laboratory (<a href='https://www.ornl.gov/'>ORNL</a>)
-      year: 2021 - 2024
+      - company: Oak Ridge National Laboratory
+        position: R&D Associate Staff
+        location: Oak Ridge, TN
+        start_date: 2021-12
+        end_date: 2024-03
 
-    - title: Postdoctoral Research Associate
-      institution: Oak Ridge National Laboratory (<a href='https://www.ornl.gov/'>ORNL</a>)
-      year: 2019 - 2021
+      - company: Oak Ridge National Laboratory
+        position: Postdoctoral Research Associate
+        location: Oak Ridge, TN
+        start_date: 2019-09
+        end_date: 2021-11
+        # highlights:
+          # - Produced freight flow datasets for several out-of-scope components of FAF version 5 not covered by the Commodity Flow Survey (CFS)
+          # - Generated regional travel statistics from National Household Travel Survey (NHTS) data for NYSDOT regional travel demand modeling
+          # - Compiled a national pipeline intermodal terminal dataset by merging multiple sources
 
-    - title: Postdoctoral Research Associate
-      institution: University of South Carolina (<a href='https://sc.edu/'>USC</a>)
-      year: 2019
+      - company: University of South Carolina
+        position: Postdoctoral Research Associate
+        location: Columbia, SC
+        start_date: 2019-05
+        end_date: 2019-09
 
-    - title: Graduate Research Assistant
-      institution: University of South Carolina (<a href='https://sc.edu/'>USC</a>)
-      year: 2013 - 2019
-      description:
+      - company: University of South Carolina
+        position: Graduate Research Assistant
+        location: Columbia, SC
+        start_date: 2013-08
+        end_date: 2019-04
 
-    - title: Lecturer
-      institution: Stamford University Bangladesh
-      year: 2013
-      description:
+      - company: University of South Carolina
+        position: Graduate Teaching Assistant
+        location: Columbia, SC
+        start_date: 2017-08
+        end_date: 2019-04
 
-      
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Civil Engineering
-      institution: University of South Carolina (<a href='https://sc.edu/'>USC</a>)
-      year: 2019
-      description:
-        - <u>Dissertation:</u> Development of Models for Road-Rail Intermodal Freight Network under Uncertainty
-        - <u>Committee Members:</u> Nathan Huynh (Chair), Robert Mullen, Yuche Chen, Pelin Pekgun
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: MAS in Applied Statistics
-      institution: University of South Carolina (<a href='https://sc.edu/'>USC</a>)
-      year: 2018
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: MS in Civil Engineering
-      institution: University of South Carolina (<a href='https://sc.edu/'>USC</a>)
-      year: 2015
-      description:
-        - <u>Thesis:</u> Assessment of Classifiers for Potential Voice-Enabled Transportation Apps
-        - <u>Committee Members:</u> Nathan Huynh (Chair), Robert Mullen, Juan Caicedo
-    - title: BS in Civil Engineering
-      institution: Bangladesh University of Engineering and Technology (<a href='https://www.buet.ac.bd/web/#/'>BUET</a>)
-      year: 2012
+      - company: Stamford University Bangladesh
+        position: Lecturer
+        location: Dhaka, Bangladesh
+        start_date: 2013-02
+        end_date: 2013-08
 
+    Education:
+      - institution: University of South Carolina
+        location: Columbia, SC
+        studyType: PhD
+        area: Civil Engineering
+        start_date: 2016-01
+        end_date: 2019-05
+        highlights:
+          - "Dissertation: Development of Models for Road-Rail Intermodal Freight Network under Uncertainty"
+          - "Major: Transportation Engineering and Operations Research"
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      - institution: University of South Carolina
+        location: Columbia, SC
+        studyType: Master
+        area: Applied Statistics
+        start_date: 2016-08
+        end_date: 2018-05
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+      - institution: University of South Carolina
+        location: Columbia, SC
+        studyType: MS
+        area: Civil Engineering
+        start_date: 2013-08
+        end_date: 2015-12
+        highlights:
+          - "Thesis: Assessment of Classifiers for Potential Voice-Enabled Transportation Apps"
+          - "Major: Transportation Engineering"
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+      - institution: Bangladesh University of Engineering and Technology
+        location: Dhaka, Bangladesh
+        studyType: BS
+        area: Civil Engineering
+        start_date: 2007-06
+        end_date: 2012-04
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    # Invited Talks and Panels:
+      # - bullet: 2026, "Advanced Forecasting and Optimization," *DOE Transportation Technologies Office Analysis AI Workshop*, Washington, DC
+      # - bullet: 2026, Panelist, session on "Inefficiencies and Supply," *ORNL Collaboration Catalysts&#58; Secure, Resilient Systems for Abundant Energy*, Oak Ridge, TN
+      # - bullet: 2026, "FAF and NHTS&#58; National Freight and Passenger Travel Data for Regional Resilience Analysis," *Accelerating Southeast Resilience Workshop*, Oak Ridge, TN
+      # - bullet: 2026, "Technology-Enabled Approaches for Mobility Management," *Workshop on Evaluating Mobility Management Tools and Strategies for Implementation and Practice, TRB Annual Meeting*, Washington, DC
+      # - bullet: 2025, "Transportation Analytics and Decision Sciences," *German-American Frontiers of Engineering Symposium, National Academy of Engineering*, Oak Ridge, TN
+      # - bullet: 2025, "National Household Travel Survey" (with Richard Batchelder), *NYSHAReD Community of Practice*, Virtual
+      # - bullet: 2019, "Assessing Service Life of Traffic Signs in South Carolina," *ASCE Midlands Branch Meeting*, Columbia, SC
+
+    # Mentoring:
+      # - label: Qixing (Jason) Wang
+        # details: Postdoctoral Research Associate (2026&ndash;present)
+      # - label: Pankaj Dahal
+        # details: Technical Professional Staff (2025&ndash;present)
+      # - label: A Latif Patwary
+        # details: Postdoctoral Research Associate (2024&ndash;present)
+      # - label: Meiyu (Melrose) Pan
+        # details: Postdoctoral Research Associate (2023&ndash;2024)
+      # - label: Michael Han
+        # details: GRO Student (2024&ndash;2025)
+      # - label: Cameron James Swapp, Samuel Arhin
+        # details: DOE SULI Interns (2024)
+      # - label: Eric Orozco
+        # details: GEM Fellow Intern (2022)
+      # - label: Thomas Vance
+        # details: DOE SULI Intern (2022)

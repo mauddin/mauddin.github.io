@@ -1,58 +1,30 @@
 ---
 layout: page
-title: Blog
-permalink: /posts/
-description: Blog posts
+permalink: /projects/
+title: Projects
+description: Sponsored research projects led as principal investigator (PI) or co-PI, totaling more than $15M, for DOE, USDOT (FHWA, BTS), NYSDOT, and ORNL LDRD.
 nav: true
-nav_order: 7
-display_categories:
-horizontal: false
+nav_order: 4
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+{% assign groups = "active,completed" | split: "," %}
+{% for group in groups %}
+{% assign items = site.data.projects | where: "status", group %}
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+<h2 class="mt-4">{% if group == "active" %}Active{% else %}Completed{% endif %}</h2>
+<table class="cv-table">
+  <tbody>
+    {% for p in items %}
+      <tr>
+        <td class="year">{{ p.period }}</td>
+        <td>
+          <strong>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</strong><br>
+          <span class="detail">{{ p.sponsor }}</span><br>
+          <span class="role">{{ p.role }}</span>
+        </td>
+        <td class="amount">{{ p.amount }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
