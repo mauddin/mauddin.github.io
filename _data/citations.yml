@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-09-25'
+  last_updated: '2026-09-29'
 papers:
   FRKGYKoAAAAJ:3s1wT3WcHBgC:
     citations: 0
     title: "A Combined Ecosystem and Engineering Decision-Making Framework for Optimized Enhanced Weathering"
     year: '2024'
   FRKGYKoAAAAJ:4DMP91E08xMC:
-    citations: 81
+    citations: 82
     title: "Reliable Routing of Road\u2013Rail Intermodal Freight under Uncertainty"
     year: '2019'
   FRKGYKoAAAAJ:4JMBOYKVnBMC:
@@ -78,7 +78,7 @@ papers:
     title: "A Spatial-Temporal Analysis of Travel Time Gap and Inequality Between Public Transportation and Personal Vehicles"
     year: '2024'
   FRKGYKoAAAAJ:Se3iqnhoufwC:
-    citations: 158
+    citations: 159
     title: "Truck-Involved Crashes Injury Severity Analysis for Different Lighting Conditions on Rural and Urban Roadways"
     year: '2017'
   FRKGYKoAAAAJ:TFP_iSt0sucC:
@@ -94,7 +94,7 @@ papers:
     title: "Routing Model for Multicommodity Freight in an Intermodal Network Under Disruptions"
     year: '2016'
   FRKGYKoAAAAJ:ULOm3_A8WrAC:
-    citations: 59
+    citations: 60
     title: "Pedestrian Injury Severity Analysis in Motor Vehicle Crashes in Ohio"
     year: '2018'
   FRKGYKoAAAAJ:UeHWp8X0CEIC:
@@ -102,11 +102,11 @@ papers:
     title: "Evaluation of Google\u2019s Voice Recognition and Sentence Classification for Health Care Applications"
     year: '2015'
   FRKGYKoAAAAJ:WF5omc3nYNoC:
-    citations: 60
+    citations: 61
     title: "Pavement Performance Evaluation Models for South Carolina"
     year: '2017'
   FRKGYKoAAAAJ:_Qo2XoVZTnwC:
-    citations: 27
+    citations: 26
     title: "Modeling Freight Mode Choice Using Machine Learning Classifiers: A Comparative Study Using the Commodity Flow Survey (CFS) Data"
     year: '2021'
   FRKGYKoAAAAJ:_xSYboBqXhAC:
