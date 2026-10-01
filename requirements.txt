@@ -1,2 +1,3 @@
 pyyaml
 scholarly
+bibtexparser<2  # scholarly imports bibtexparser.bibdatabase, removed in v2
