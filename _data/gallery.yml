@@ -19,6 +19,14 @@
 #   fit:    optional. "contain" shows the whole image in the thumbnail (no cropping).
 #   video:  optional. true adds a play badge; the card opens `link` instead of the lightbox.
 
+- date: 2024-11-01
+  title: Innovation Award with Robin Clark, 2024 ORNL Innovation Awards
+  image: 2024-11-ornl-innovation-award.jpg
+  place: Oak Ridge, TN
+  credit: LinkedIn
+  link: https://www.linkedin.com/posts/majbahuddin_happy-to-be-recognized-at-the-2024-ornl-innovation-activity-7266146122853662721-0hh-
+  alt: Robin Clark (left) and Majbah Uddin (right) holding framed Innovation Award certificates in front of an ORNL backdrop
+
 - date: 2023-08-17
   title: "\"Tracking Hazmat with Tech\" on WVLT 8 News"
   image: 2023-08-wvlt-tracking-hazmat.jpg
