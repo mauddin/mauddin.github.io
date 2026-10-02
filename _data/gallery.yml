@@ -161,13 +161,13 @@
   link: https://www.linkedin.com/posts/majbahuddin_recognized-for-the-hsis-student-paper-award-activity-6356712863708569600-uuNS
   alt: Award recipients holding plaques; Majbah Uddin is third from the left
 
-- date: 2017-07-01
-  title: 2017 HSIS Excellence in Highway Safety Data Award, Second Place
-  image: 2017-07-hsis-award-plaque.jpg
-  credit: LinkedIn
-  link: https://www.linkedin.com/posts/majbahuddin_received-2017-highway-safety-hsis-data-paper-activity-6291650919473967104-We4B
-  alt: Award plaque for second place in the 2017 Excellence in Highway Safety Data Award Paper Competition, awarded to Majbah Uddin for the paper "Analysis of Pedestrian Injury Severity in Motor Vehicle Crashes in Ohio"
-  fit: contain
+# - date: 2017-07-01
+#   title: 2017 HSIS Excellence in Highway Safety Data Award, Second Place
+#   image: 2017-07-hsis-award-plaque.jpg
+#   credit: LinkedIn
+#   link: https://www.linkedin.com/posts/majbahuddin_received-2017-highway-safety-hsis-data-paper-activity-6291650919473967104-We4B
+#   alt: Award plaque for second place in the 2017 Excellence in Highway Safety Data Award Paper Competition, awarded to Majbah Uddin for the paper "Analysis of Pedestrian Injury Severity in Motor Vehicle Crashes in Ohio"
+#   fit: contain
 
 - date: 2016-09-01
   title: "\"Value of HSIS Data Underscored in Contest\" in FHWA R&T Now"
