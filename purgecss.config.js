@@ -23,5 +23,13 @@ module.exports = {
     // and page chrome (scroll-progress bar, ToC) bleeds through a zoomed image.
     "medium-zoom-overlay",
     "medium-zoom-image--opened",
+    // Spotlight (gallery lightbox) builds its DOM at runtime, so keep the
+    // #spotlight caption-color override from _custom.scss.
+    "spotlight",
+    /^spl-/,
+    // Optional gallery card modifiers (_data/gallery.yml `focus` / `fit`);
+    // kept even when no current entry uses them.
+    /^focus-/,
+    "fit-contain",
   ],
 };

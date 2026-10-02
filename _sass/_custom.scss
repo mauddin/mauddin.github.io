@@ -99,3 +99,116 @@
     font-size: 0.9rem;
   }
 }
+
+// Gallery page: year headings over a responsive grid of 3:2 photo cards
+.gallery-year {
+  color: var(--global-theme-color);
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  scroll-margin-top: 4.5rem; // keep heading clear of the fixed navbar
+}
+
+.gallery .gallery-year:first-child {
+  margin-top: 1rem;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); // 3 / 2 / 1 columns
+  gap: 1.75rem 1.25rem;
+}
+
+.gallery-thumb {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 0.4rem;
+  background: var(--global-divider-color);
+
+  figure {
+    margin: 0;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    transition: transform 0.25s ease;
+  }
+
+  &:hover img,
+  &:focus-visible img {
+    transform: scale(1.03);
+  }
+
+  &.focus-top img {
+    object-position: center top;
+  }
+
+  &.focus-bottom img {
+    object-position: center bottom;
+  }
+
+  &.focus-left img {
+    object-position: left center;
+  }
+
+  &.focus-right img {
+    object-position: right center;
+  }
+
+  &.fit-contain img {
+    object-fit: contain;
+  }
+}
+
+// Play badge on video cards
+.gallery-play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+
+  i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.25rem;
+    height: 3.25rem;
+    padding-left: 0.2rem; // optically center the triangle
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-size: 1.2rem;
+  }
+}
+
+.gallery-card {
+  p {
+    margin: 0;
+  }
+
+  .gallery-title {
+    margin-top: 0.6rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.35;
+  }
+
+  .gallery-meta,
+  .gallery-credit {
+    margin-top: 0.15rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+  }
+}
+
+// Spotlight lightbox: the theme colors every div/span, which turns the
+// caption black on the dark overlay; let it inherit Spotlight's white.
+#spotlight :is(.spl-footer, .spl-title, .spl-description, .spl-page) {
+  color: inherit;
+}

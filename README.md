@@ -33,6 +33,7 @@ bundle exec jekyll serve     # http://localhost:4000, rebuilds on save
 | Datasets, software, copyrights | `_data/software.yml` |
 | Awards, certifications, media | `_data/awards.yml` |
 | Service, affiliations, peer review | `_data/service.yml` |
+| Gallery photos | `_data/gallery.yml` + images in `assets/img/gallery/` |
 | Social links and email | `_data/socials.yml` |
 | Coauthor links (lowercase last name keys) | `_data/coauthors.yml` |
 | Theme color and small style tweaks | `_sass/_custom.scss` |
@@ -53,6 +54,8 @@ Source of truth for content is the LaTeX CV in `../publicCV/cv/*.tex`.
 **Add a PDF (author copy, report).** Copy the file into `assets/pdf/` and add `pdf={that-file.pdf}` to the matching entry. Name new files `YYYY-venue-topic.pdf` (lowercase, hyphens, no spaces), e.g. `2025-jtg-nighttime-mobility.pdf`. Keep existing file names as they are: PDF URLs may already be indexed by Google Scholar or linked elsewhere, and GitHub Pages cannot redirect them.
 
 When a public full-text copy exists (OSTI.GOV for DOE-sponsored work, arXiv), `pdf=` can point to it directly, e.g. `pdf={https://www.osti.gov/servlets/purl/3002841}`.
+
+**Add a gallery photo.** Copy the image into `assets/img/gallery/` as `YYYY-MM-short-slug.jpg` and add an entry to `_data/gallery.yml` with `date`, `title`, and `image` (optional: `place`, `credit`, `link`, `alt`, `focus`, `fit`, `video`; the comment at the top of that file explains each). Entry order does not matter: the page sorts newest first and adds the year headings.
 
 **Citation counts.** `.github/workflows/update-citations.yml` refreshes `_data/citations.yml` from Google Scholar on Mon/Wed/Fri and redeploys. Run it by hand from the Actions tab if needed.
 

@@ -1,0 +1,79 @@
+# Rendered by _pages/gallery.md on /gallery/.
+#
+# To add a photo:
+#   1. Put the image in assets/img/gallery/ (jpg or png; any size, phone photos are fine).
+#      Name it YYYY-MM-short-slug.jpg so the folder stays sorted.
+#   2. Add an entry below. Order does not matter: the page sorts newest first
+#      and builds the year headings from `date`.
+#
+# Fields:
+#   date:   required. YYYY-MM-DD (use 01 if the day is unknown). Shown as "Mon YYYY".
+#   title:  required. Short caption, about 8 words.
+#   image:  required. File name inside assets/img/gallery/.
+#   place:  optional. City, ST (or City, Country).
+#   credit: optional. Shown as "Photo: <credit>".
+#   link:   optional. Source page; the credit links here.
+#   alt:    optional. Describes the image for screen readers; defaults to the title.
+#   focus:  optional. Part of the image kept when the 3:2 thumbnail crops it:
+#           top, bottom, left, right, or center (default).
+#   fit:    optional. "contain" shows the whole image in the thumbnail (no cropping).
+#   video:  optional. true adds a play badge; the card opens `link` instead of the lightbox.
+
+- date: 2023-07-18
+  title: "\"Safe Train Transport\" on WATE 6 News"
+  image: 2023-07-wate-safe-train.jpg
+  place: Knoxville, TN
+  credit: WATE 6 On Your Side
+  link: https://www.youtube.com/watch?v=ScrIQfxn4n0
+  alt: TV news segment showing a U.S. map of crude oil train routes reconstructed from geotagged photos
+  video: true
+
+- date: 2022-03-01
+  title: Transportation Influencer, TR News No. 338
+  image: 2022-03-trnews-influencer.jpg
+  credit: TR News, Transportation Research Board
+  link: https://www.nationalacademies.org/read/28203/chapter/12
+  alt: TR News "Transportation Influencer" profile page with a portrait of Majbah Uddin and interview text
+  focus: left
+
+- date: 2019-04-30
+  title: Graduate Student Spotlight, USC Civil and Environmental Engineering
+  image: 2019-04-usc-cee-spotlight.jpg
+  place: Columbia, SC
+  credit: USC Civil and Environmental Engineering
+  link: https://www.linkedin.com/posts/uofsccee_uofsc-activity-6529012789812490240-XLKN/
+  alt: Outdoor portrait of Majbah Uddin in a blue checked shirt
+
+- date: 2019-04-18
+  title: Graduate Student Spotlight, USC Graduate School
+  image: 2019-04-usc-grad-spotlight.jpg
+  place: Columbia, SC
+  credit: USC Graduate School
+  link: https://twitter.com/GradSchoolUofSC/status/1118941770392461312
+  alt: USC Graduate School spotlight graphic with a quote on intermodal freight research and a photo of Majbah Uddin
+  focus: top
+
+- date: 2018-06-20
+  title: Student Honor Panel Talk, Marine Transportation System R&D Conference
+  image: 2018-06-mts-honor-panel.jpg
+  place: Washington, DC
+  credit: U.S. Committee on the Marine Transportation System
+  link: https://twitter.com/USCMTS/status/1009498303682269185
+  alt: Majbah Uddin presenting at the National Academy of Sciences podium with a slide on carrier collaboration
+
+- date: 2018-04-16
+  title: Spotlight on Graduate Student Research, USC Graduate School
+  image: 2018-04-usc-grad-spotlight.jpg
+  place: Columbia, SC
+  credit: USC Graduate School
+  link: https://twitter.com/GradSchoolUofSC/status/985954049764855808
+  alt: USC Graduate School spotlight graphic with a quote on hazardous materials truck crash research and a photo of Majbah Uddin
+  focus: top
+
+- date: 2018-01-01
+  title: HSIS Excellence in Highway Safety Data Award, TRB Annual Meeting
+  image: 2018-01-hsis-award.jpg
+  place: Washington, DC
+  credit: FHWA R&T Now
+  link: https://www.fhwa.dot.gov/publications/rtnow/18jan_feb_rtnow.cfm
+  alt: Award recipients holding plaques; Majbah Uddin is third from the left
