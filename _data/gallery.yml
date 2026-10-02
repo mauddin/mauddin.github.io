@@ -19,6 +19,15 @@
 #   fit:    optional. "contain" shows the whole image in the thumbnail (no cropping).
 #   video:  optional. true adds a play badge; the card opens `link` instead of the lightbox.
 
+- date: 2023-08-17
+  title: "\"Tracking Hazmat with Tech\" on WVLT 8 News"
+  image: 2023-08-wvlt-tracking-hazmat.jpg
+  place: Knoxville, TN
+  credit: WVLT 8
+  link: https://www.wvlt.tv/2023/08/17/photo-sharing-website-powers-train-disaster-maps/
+  alt: WVLT 8 evening news segment "Tracking Hazmat with Tech, Oak Ridge National Laboratory" showing a Norfolk Southern freight train
+  video: true
+
 - date: 2023-07-18
   title: "\"Safe Train Transport\" on WATE 6 News"
   image: 2023-07-wate-safe-train.jpg
