@@ -1,12 +1,15 @@
 metadata:
-  last_updated: '2026-10-14'
+  citedby: 1216
+  hindex: 16
+  i10index: 19
+  last_updated: '2026-11-04'
 papers:
   FRKGYKoAAAAJ:3s1wT3WcHBgC:
     citations: 0
     title: A Combined Ecosystem and Engineering Decision-Making Framework for Optimized Enhanced Weathering
     year: '2024'
   FRKGYKoAAAAJ:4DMP91E08xMC:
-    citations: 83
+    citations: 85
     title: "Reliable Routing of Road\u2013Rail Intermodal Freight under Uncertainty"
     year: '2019'
   FRKGYKoAAAAJ:4JMBOYKVnBMC:
@@ -26,7 +29,7 @@ papers:
     title: Assessing Operating Room Turnover Time via the Use of Mobile Application
     year: '2018'
   FRKGYKoAAAAJ:BqipwSGYUEgC:
-    citations: 5
+    citations: 6
     title: 'Improving the Accuracy of Freight Mode Choice Models: A Case Study Using the 2017 CFS PUF Data Set and Ensemble Learning Techniques'
     year: '2024'
   FRKGYKoAAAAJ:D03iK_w7-QYC:
@@ -54,7 +57,7 @@ papers:
     title: Optimizing Hydrogen Fueling Infrastructure Plans on Freight Corridors for Heavy Duty Fuel Cell Electric Vehicles
     year: '2023'
   FRKGYKoAAAAJ:NMxIlDl6LWMC:
-    citations: 34
+    citations: 36
     title: Factors Influencing Mode Choice of Adults with Travel-Limiting Disability
     year: '2023'
   FRKGYKoAAAAJ:NaGl4SEjCO4C:
@@ -78,15 +81,15 @@ papers:
     title: A Spatial-Temporal Analysis of Travel Time Gap and Inequality Between Public Transportation and Personal Vehicles
     year: '2024'
   FRKGYKoAAAAJ:Se3iqnhoufwC:
-    citations: 162
+    citations: 163
     title: Truck-Involved Crashes Injury Severity Analysis for Different Lighting Conditions on Rural and Urban Roadways
     year: '2017'
   FRKGYKoAAAAJ:TFP_iSt0sucC:
-    citations: 8
+    citations: 9
     title: An Interpretable Machine Learning Framework to Understand Bikeshare Demand before and during the COVID-19 Pandemic in New York City
     year: '2023'
   FRKGYKoAAAAJ:TQgYirikUcIC:
-    citations: 124
+    citations: 126
     title: Injury Severity Analysis of Truck-Involved Crashes under Different Weather Conditions
     year: '2020'
   FRKGYKoAAAAJ:Tyk-4Ss8FVUC:
@@ -106,7 +109,7 @@ papers:
     title: Pavement Performance Evaluation Models for South Carolina
     year: '2017'
   FRKGYKoAAAAJ:_Qo2XoVZTnwC:
-    citations: 27
+    citations: 29
     title: 'Modeling Freight Mode Choice Using Machine Learning Classifiers: A Comparative Study Using the Commodity Flow Survey (CFS) Data'
     year: '2021'
   FRKGYKoAAAAJ:_xSYboBqXhAC:
@@ -182,7 +185,7 @@ papers:
     title: 'Mobility Gaps between Low-Income and Not Low-Income Households: A Case Study in New York State'
     year: '2023'
   FRKGYKoAAAAJ:ns9cj8rnVeAC:
-    citations: 28
+    citations: 29
     title: Understanding Electric Vehicle Ownership Using Data Fusion and Spatial Modeling
     year: '2024'
   FRKGYKoAAAAJ:pyW8ca7W8N0C:
@@ -198,7 +201,7 @@ papers:
     title: 'Providing Levelized Cost and Waiting Time Inputs for HDV Hydrogen Refueling Station Planning: A Case Study of U.S. I-75 Corridor'
     year: '2022'
   FRKGYKoAAAAJ:rO6llkc54NcC:
-    citations: 19
+    citations: 20
     title: 'Agent-Based Modeling for Multimodal Transportation of  for Carbon Capture, Utilization, and Storage: CCUS-Agent'
     year: '2025'
   FRKGYKoAAAAJ:roLk4NBRz8UC:
@@ -210,7 +213,7 @@ papers:
     title: Freight Traffic Assignment Methodology for Large-Scale Road-Rail Intermodal Networks
     year: '2015'
   FRKGYKoAAAAJ:ufrVoPGSRksC:
-    citations: 185
+    citations: 188
     title: Data Analytics for Intermodal Freight Transportation Applications
     year: '2017'
   FRKGYKoAAAAJ:vV6vV6tmYwMC:
