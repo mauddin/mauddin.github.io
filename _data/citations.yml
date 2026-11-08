@@ -1,15 +1,15 @@
 metadata:
-  citedby: 1216
+  citedby: 1221
   hindex: 16
   i10index: 19
-  last_updated: '2026-11-04'
+  last_updated: '2026-11-07'
 papers:
   FRKGYKoAAAAJ:3s1wT3WcHBgC:
     citations: 0
     title: A Combined Ecosystem and Engineering Decision-Making Framework for Optimized Enhanced Weathering
     year: '2024'
   FRKGYKoAAAAJ:4DMP91E08xMC:
-    citations: 85
+    citations: 87
     title: "Reliable Routing of Road\u2013Rail Intermodal Freight under Uncertainty"
     year: '2019'
   FRKGYKoAAAAJ:4JMBOYKVnBMC:
@@ -29,7 +29,7 @@ papers:
     title: Assessing Operating Room Turnover Time via the Use of Mobile Application
     year: '2018'
   FRKGYKoAAAAJ:BqipwSGYUEgC:
-    citations: 6
+    citations: 7
     title: 'Improving the Accuracy of Freight Mode Choice Models: A Case Study Using the 2017 CFS PUF Data Set and Ensemble Learning Techniques'
     year: '2024'
   FRKGYKoAAAAJ:D03iK_w7-QYC:
@@ -57,7 +57,7 @@ papers:
     title: Optimizing Hydrogen Fueling Infrastructure Plans on Freight Corridors for Heavy Duty Fuel Cell Electric Vehicles
     year: '2023'
   FRKGYKoAAAAJ:NMxIlDl6LWMC:
-    citations: 36
+    citations: 37
     title: Factors Influencing Mode Choice of Adults with Travel-Limiting Disability
     year: '2023'
   FRKGYKoAAAAJ:NaGl4SEjCO4C:
@@ -185,7 +185,7 @@ papers:
     title: 'Mobility Gaps between Low-Income and Not Low-Income Households: A Case Study in New York State'
     year: '2023'
   FRKGYKoAAAAJ:ns9cj8rnVeAC:
-    citations: 29
+    citations: 30
     title: Understanding Electric Vehicle Ownership Using Data Fusion and Spatial Modeling
     year: '2024'
   FRKGYKoAAAAJ:pyW8ca7W8N0C:
